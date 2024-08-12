@@ -1,8 +1,6 @@
 NEXTPNR_SEED=
 NEXTPNR=../nextpnr/build/nextpnr-ecp5
 
-DEV_MAC_ADDRESS=ae:12:34:56:78:6E
-
 .PHONY: .FORCE
 .FORCE:
 
